@@ -15,7 +15,11 @@ This program  that evaluates any complex arithmetic expression which may contain
 3. **Positive numbers (integer or floating point):** All calculations are done
 between floating point numbers.
 4. **Space characters ([ \t]) between parentheses, operators and numbers.**
+
 An example of a complex numerical expression is the following:
+
+```5 + (((3.3 + 6.6) * 9.2 ) + 12.546) * 2.323 +
+( ( ( 33.3 + 2342.1 ) * 55.555 ) - 10000.009 ) + 11.334 * 2.3 ^3.5```
 
 # Functionality
 
