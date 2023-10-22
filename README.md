@@ -7,8 +7,8 @@ This is an Arithmetic Calculator implemented in java using binary trees to calcu
 This program  that evaluates any complex arithmetic expression which may contain:
 1. Parentheses: indicate the priority of actions.
 2. The symbols of operations (binary operators):
-    -●  + (addition), (eg 3.3 + 2.2)
-    ●  - (subtraction), (eg 3.3 - 2.2)
+    1. ●  + (addition), (eg 3.3 + 2.2)
+    2. ●  - (subtraction), (eg 3.3 - 2.2)
     ●  x or * (multiplication), (eg 3.3 x 2.2 or 3.3 * 2.2)
     ●  / (division), (eg 3.3 / 2.2)
     ●  ^ (raise to power), (eg 3.3^2.2)
@@ -16,3 +16,7 @@ This program  that evaluates any complex arithmetic expression which may contain
 between floating point numbers.
 5. Space characters ([ \t]) between parentheses, operators and numbers.
 An example of a complex numerical expression is the following:
+
+# Functionality
+
+
