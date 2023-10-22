@@ -8,7 +8,7 @@ This program  that evaluates any complex arithmetic expression which may contain
 1. **Parentheses:** indicate the priority of actions.
 2. **The symbols of operations (binary operators):**
     - + (addition), (eg 3.3 + 2.2)
-    - (subtraction), (eg 3.3 - 2.2)
+    - - (subtraction), (eg 3.3 - 2.2)
     - x or * (multiplication), (eg 3.3 x 2.2 or 3.3 * 2.2)
     - / (division), (eg 3.3 / 2.2)
     - ^ (raise to power), (eg 3.3^2.2)
